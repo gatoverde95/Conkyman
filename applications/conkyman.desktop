@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Conkyman
+Name[es]=Conkyman
+Comment=Theme Manager for Conky
+Comment[es]=Gestor de temas de conky
+Exec=bash /usr/share/conkyman/inyect.sh
+Icon=/usr/share/conkyman/icons/conkyman.svg
+Terminal=false
+Type=Application
+Categories=GTK;System;ThemeManager;conky;
