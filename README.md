@@ -32,12 +32,12 @@ Clona el repositorio y ejecuta la aplicación:
 ```bash
 git clone https://github.com/gatoverde95/Conkyman.git
 cd Conkyman
-python3 conkyman.py
+python3 man.py
 ```
 
 ## Uso
 
-1. Ejecuta `python3 conkyman.py`.
+1. Ejecuta `python3 man.py`.
 2. Selecciona un tema de la lista o personaliza los colores.
 3. Aplica los cambios y observa la vista previa en Conky.
 4. Guarda la configuración y disfruta de tu nuevo tema.
